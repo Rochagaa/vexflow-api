@@ -1,0 +1,9 @@
+{
+  "name": "vexflow-api",
+  "version": "1.0.0",
+  "main": "api/render.js",
+  "dependencies": {
+    "vexflow": "^4.2.3",
+    "jsdom": "^24.0.0"
+  }
+}
